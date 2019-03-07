@@ -4,4 +4,4 @@ python script filename.csv car_name
 
 ## Example
 
-python list.py 
+python list_owners.py 
